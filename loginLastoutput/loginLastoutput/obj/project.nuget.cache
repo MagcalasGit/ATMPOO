@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "2Dc7H/8e+iwv7pQkgUfD6XX/mDvBdqnDlq4q1YNytPrXwb6fdicCaNVfi9kKT9PMl1KCErX6xbTVGxrpysPePA==",
+  "success": true,
+  "projectFilePath": "D:\\login\\loginLastoutput\\loginLastoutput\\loginLastoutput.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\gunа.gui\\3.0.4.9\\gunа.gui.3.0.4.9.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.codedom\\7.0.0\\system.codedom.7.0.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.management\\7.0.0\\system.management.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
